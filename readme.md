@@ -1,1 +1,1 @@
-This is my repository for my awesome project!
+This is the repository for my awesome project!
